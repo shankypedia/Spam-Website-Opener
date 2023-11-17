@@ -14,6 +14,6 @@ Open the Python file in console mode on your friend's computer or laptop and wat
 ## Prerequisites
 
 -   Python 3
--   Webbrowser Module (built-in module)
--   Time Module (built-in module)
--   Random Module (built-in module)
+-   `webbrowser` Module (built-in)
+-   `time` Module (built-in)
+-   `random` Module (built-in)
