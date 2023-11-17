@@ -1,15 +1,19 @@
-# Website-Spam-Opener
-A program to mess around your friends with, as the repo name says, it spam opens websites.
+# Spam-Website Opener
+
+As the repository name implies, this is a tool to mess with your pals since it opens webpages with spam.
 
 ## Usage
-Run this file on your friend's computer/laptop in console mode, and watch them react to the craziness (trust me, real fun xD)
+
+Open the Python file in console mode on your friend's computer or laptop and watch how they react to the chaos (it's quite amusing, I promise).
 
 ## Note
-- I’ve added a few websites that apply to the program for developers (new links can be added or be removed)
-- The program will randomly open a link every 5 seconds (the time can be changed)
 
-## Requirements 
-- Python
-- Webbrowser Module (built-in module)
-- Time Module (built-in module)
-- Random Module (built-in module)
+-   The program is designed to open a link randomly every 5 seconds (adjustable time). 
+-   I've incorporated several websites relevant to developer applications into the code (additional links can be added or removed by editing the source Python file).
+
+## Prerequisites
+
+-   Python 3
+-   Webbrowser Module (built-in module)
+-   Time Module (built-in module)
+-   Random Module (built-in module)
