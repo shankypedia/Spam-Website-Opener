@@ -8,7 +8,7 @@ def open_random_website():
         'coderanch.com', 'python.org', 'quora.com', 'nodejs.org', 'github.com',
         'stackoverflow.com', 'stackexchange.com', 'learn-anything.xyz',
         'devrant.com', 'google.com', 'codementor.io', 'codewars.com',
-        'w3schools.com', 'hackerrank.com', 'freeCodeCamp.org',
+        'w3schools.com', 'hackerrank.com', 'freeCodeCamp.org', 'udemy.com'
         'developer.mozilla.org', 'codecademy.com', 'git-scm.com',
         'visualstudio.com', 'docker.com', 'npmjs.com', 'ruby-lang.org',
         'jetbrains.com', 'dzone.com', 'css-tricks.com', 'heroku.com',
