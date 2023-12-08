@@ -34,7 +34,7 @@ def main():
             # Increment the counter after opening a website
             openings_count += 1
 
-        print("Program stopped after opening 100 websites.")
+        print(f"Program stopped after opening {limit_openings} websites.")
 
     except KeyboardInterrupt:
         print("\nProgram terminated by user.")
